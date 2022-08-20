@@ -1,4 +1,4 @@
-LINK => https://portfolio-agus-corcico.netlify.app/contact
+LINK => https://portfolio-agus-corcico.netlify.app/
 
 # Getting Started with Create React App
 
