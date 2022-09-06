@@ -7,14 +7,14 @@ const ProjectCardData = [
     {
         imgsrc: pizzaImg,
         title: "Ecommerce Pizza Delivery",
-        text: "Descripcion de la app de delivery!!! ver despues",
+        text: "Description",
         view: "https://www.youtube.com/",
         source: "linkdegithub"
     },
     {
         imgsrc: social,
         title: "Social media app",
-        text: "Descripcion de la app de social!!! ver despues",
+        text: "Description",
         view: "linkdelaapp.com",
         source: "linkdegithub"
     },
