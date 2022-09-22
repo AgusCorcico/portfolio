@@ -6,7 +6,7 @@ import {FaHome, FaPhone, FaMailBulk,
 
 const Footer = () => {
     return (
-        <div className="footer">
+        <div className="footer" id="/contact">
             <div className="footer-container">
                 <div className="left">
                     <div className="location">

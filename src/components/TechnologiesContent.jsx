@@ -12,7 +12,7 @@ import sql from "../assets/sql.png"
 
 const TechnologiesContent = () => {
     return (
-        <div className="tech-img-container">
+        <div className="tech-img-container" id="/technologies">
             <div className="logo-info">
                 <p>HTML</p>
                 <img src={html} alt=""/>

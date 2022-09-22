@@ -6,7 +6,7 @@ import yo from "../assets/yo.png"
 
 const AboutContent = () => {
     return (
-        <div className="about">
+        <div className="about" id="/about">
             <div className="left">
                 <h1>Who Am I?</h1>
                 <p>
