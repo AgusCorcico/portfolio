@@ -30,7 +30,7 @@ const Footer = () => {
                 </div>
                 <div className="right">
                     <h4>Social Networks</h4>
-                    <p>Aca podria escribir alguna informacion personal, recomendar mis redes, alguna frase x o tranquilamente no pongo nada.</p>
+                    <p></p>
                     <div className="social">
                         <a href="https://www.linkedin.com/in/agustin-corcico-b284b114a/" target="_blank" rel="noreferrer noopener">
                         <FaLinkedin size={30} style={{color:"#fff", marginRight:"1rem"}}/>
