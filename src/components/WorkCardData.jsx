@@ -8,15 +8,15 @@ const ProjectCardData = [
         imgsrc: pizzaImg,
         title: "Ecommerce Pizza Delivery",
         text: "Description",
-        view: "https://www.youtube.com/",
-        source: "linkdegithub"
+        view: "https://delivery-app-mu.vercel.app/",
+        source: "https://github.com/AgusCorcico/deliveryApp"
     },
     {
         imgsrc: social,
         title: "Social media app",
         text: "Description",
-        view: "linkdelaapp.com",
-        source: "linkdegithub"
+        view: "https://github.com/AgusCorcico/mern-social-app",
+        source: "https://github.com/AgusCorcico/mern-social-app"
     },
 ]
 
