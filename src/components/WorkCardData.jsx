@@ -1,6 +1,7 @@
 /* works as a api */
 import pizzaImg from "../assets/pizza.png";
 import social from "../assets/social.png";
+import videogamePi from '../assets/videogamePi.png'
 
 
 const ProjectCardData = [
@@ -17,6 +18,13 @@ const ProjectCardData = [
         text: "Description",
         view: "https://github.com/AgusCorcico/mern-social-app",
         source: "https://github.com/AgusCorcico/mern-social-app"
+    },
+    {
+        imgsrc: videogamePi,
+        title: "Videogames PI",
+        text: "Description",
+        view: "https://agus-videogames-app.vercel.app/",
+        source: "https://github.com/AgusCorcico/PI-Videogames"
     },
 ]
 
